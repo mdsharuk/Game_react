@@ -25,8 +25,3 @@ The following dependencies are used in this project:
     "react-icons": "^5.2.1"
 }
 
-Installation
-To get started with this project, clone the repository and install the dependencies:
-git clone <repository-url>
-cd <project-directory>
-npm install
