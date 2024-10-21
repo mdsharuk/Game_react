@@ -24,4 +24,14 @@ The following dependencies are used in this project:
     "react-dom": "^18.2.0",
     "react-icons": "^5.2.1"
 }
+npm start
 
+git clone <repository-url>
+cd <project-directory>
+npm install
+
+### Additional Notes
+- Replace `<repository-url>` and `<project-directory>` with your actual repository URL and project directory name.
+- You can add more sections like "Future Improvements" or "Acknowledgments" if needed.
+
+Feel free to ask if you need further customization or additional information!
